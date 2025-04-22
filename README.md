@@ -42,7 +42,7 @@ A secure and feature-rich backend system for preserving and managing digital fam
 ```bash
 git clone <https://github.com/happyparsi/digital-identity-heritage-vault/tree/main>
 cd dhiv
-## Trae
+
 Context retrieving
 
 Workspace
@@ -104,7 +104,7 @@ A secure and feature-rich backend system for preserving and managing digital fam
 
 1. Clone the repository:
 ```bash
-git clone <your-repository-url>
+git clone <https://github.com/happyparsi/digital-identity-heritage-vault.git>
 cd dhiv
  ```
 ```
